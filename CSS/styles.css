@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    background-color: rgb(118, 171, 231);
+    height: 50px;
+}
+.caja2{
+    background-color:  rgb(98, 144, 196);
+    height: 50px;
+}
+.caja3{
+    background-color: rgb(78, 115, 156) ;
+    height: 50px;
+}
+.caja4{
+    background-color:  rgb(152, 200, 255);
+   height: 50px;
+}
+.caja5{
+    background-color:  rgb(78, 152, 236);
+   height: 50px;
+}
+.caja6{
+    background-color:  rgb(69, 135, 211);
+    height: 50px;
+}
+
+.caja7{
+    background-color:  rgb(54, 134, 226);
+   height: 50px;
+}
+.caja8{
+    background-color:  rgb(28, 95, 172);
+    height: 50px;
+}
+.caja9{
+    background-color: rgb(238, 204, 163);
+    
+    height: 400px;
+}
+.caja10{
+    background-color: rgb(53, 89, 155);
+    
+    height: 196px;
+}
+.caja11{
+    background-color: rgb(93, 132, 204);
+    
+    height: 196px;
+}
+.caja12{
+    background-color: rgb(95, 207, 207);
+
+    height: 196px;
+}
+.caja13{
+    background-color: rgb(127, 231, 231);
+   
+    height: 196px;
+}
+.caja14{
+    background-color: rgb(95, 207, 207);
+    
+    height: 196px;
+}
+.caja15{
+    background-color: rgb(72, 184, 132);
+    
+    height: 196px;
+}
+.caja16{
+    background-color: rgb(122, 223, 161);
+    
+    height: 196px;
+}
+.caja17{
+    background-color: rgb(72, 184, 132);
+    
+    height: 196px;
+}
+.caja18{
+    background-color:  rgb(122, 223, 161);
+    
+    height: 196px;
+}
+.caja19{
+    background-color:rgb(53, 89, 155);
+   
+    height: 196px;
+}
+.caja20{
+    background-color:rgb(93, 132, 204);
+    
+    height: 196px;
+}
+.caja21{
+    background-color:rgb(53, 89, 155);
+    
+    height: 196px;
+}
+.caja22{
+    background-color:rgb(93, 132, 204);
+   
+    height: 196px;
+}
+.caja23{
+    background-color: rgb(238, 204, 163);
+    
+    height: 100px;
+}
+.caja24{
+    background-color: rgb(243, 183, 110);
+    
+    height: 100px;
+}
+.caja25{
+    background-color: rgb(238, 204, 163);
+    
+    height: 100px;
+}
+.caja26{
+    background-color: rgb(243, 183, 110);
+   
+    height: 100px;
+}
+.caja27{
+    background-color: rgb(238, 204, 163);
+   
+    height: 100px;
+}
+.caja28{
+    background-color: rgb(243, 183, 110);
+    
+    height: 100px;
+}
+.caja29{
+    background-color: rgb(238, 204, 163);
+   
+    height: 100px;
+}
+.caja30{
+    background-color: rgb(243, 183, 110);
+   
+    height: 100px;
+}
+.caja31{
+    background-color: rgb(238, 204, 163);
+   
+    height: 100px;
+}
+.caja32{
+    background-color: rgb(243, 183, 110);
+    
+    height: 100px;
+}
+.caja33{
+    background-color:rgb(118, 171, 231) ;
+    
+    height: 200px;
+}
+
+@media (max-width:768px){
+    .caja33{
+        display: none;
+    }
+}
+@media (max-width:576px){
+    .cajas{
+        display: none;
+    }
+}
+ 
